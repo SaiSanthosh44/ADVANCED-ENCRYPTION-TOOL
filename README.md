@@ -28,6 +28,13 @@ In today’s digital world, data security is paramount. The Advanced Encryption 
 🔒 Ensures privacy – Ideal for securing confidential documents, passwords, or business files.
 🔒 Enhances cybersecurity – A practical tool for personal and enterprise-level data protection.
 I am used visual studio code IDE for this project.
+How to Use the Advanced Encryption Tool 🔐
+1️⃣ Launch the script in VS Code.
+2️⃣ Select an option:
+Generate a new encryption key: Creates a secure key for encryption.
+Your files will be securely transformed using AES-256 encryption,
+Encrypt a file: Enter the file path to protect its contents.
+Decrypt a file: Enter the encrypted file path to restore the original data.
 
 ##output: 
 ![Image](https://github.com/user-attachments/assets/cc5847b5-a4f8-4b8f-b5b6-5b34ce28bbb8)
